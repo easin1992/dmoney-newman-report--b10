@@ -1,6 +1,6 @@
 # Dmoney API Automation and Reporting using Newman
 
-## Project Sumay: In this project admin can create customer, agent or any user. Also admin can viw list and edit or delete users.
+## Project Sumary: In this project admin can create customer, agent or any user. Also admin can viw list and edit or delete users.
 
 ## Prerequisites:
 1. install nodejs
